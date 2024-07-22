@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nandakishore B</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer-gif">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 - 🔭 I’m currently working on **CNN based Self Driving car**
 
