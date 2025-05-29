@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 <h1 align="center">Hi 👋, I'm Nandakishore B</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://i.gifer.com/TkRy.gif">
+<img align="right" alt="Coding" width="250" src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409">
 
 - 🔭 I’m currently working on **CNN based Self Driving car**
 
