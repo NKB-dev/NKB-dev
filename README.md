@@ -1,7 +1,7 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
 <h1 align="center">Hi 👋, I'm Nandakishore B</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img align="right" alt="Coding" width="250" src="[https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)">
 
 - 🔭 I’m currently working on **CNN based Self Driving car**
 
