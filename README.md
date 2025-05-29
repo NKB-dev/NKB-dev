@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://user-images.githubusercontent.com/26682297/193670814-9fe9b358-a2d2-4c19-a310-b2588615ffb4.gif)
 <h1 align="center">Hi 👋, I'm Nandakishore B</h1>
 <h3 align="center">A passionate AIML Developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409">
